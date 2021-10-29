@@ -26,4 +26,4 @@ Because this application won’t be deployed, you’ll also need to create a wal
   
   
   ## Visual Presentation
-  ![readMe Generator Demo](https://github.com/KalvinN361/Note-Taker/blob/659d9bf0609da14f1981cabca0ab84f8a55b4776/Visual.gif) 
+  ![readMe Generator Demo](https://github.com/KalvinN361/Employee-Tracker/blob/e605fe9afd9c4858bb3a654c7dfa90ee4b388afd/demo.gif) 
